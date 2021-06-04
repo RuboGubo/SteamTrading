@@ -9,7 +9,6 @@ pandas = "*"
 seaborn = "*"
 requests = "*"
 jupyter = "*"
-pipfile = "*"
 
 [dev-packages]
 
